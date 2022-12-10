@@ -1,4 +1,4 @@
-# Reddit
+# RedditClient
 
 
 ## This ia an app that might get dropped later on
